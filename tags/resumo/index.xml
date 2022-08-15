@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>resumo on Blog do Ricardo</title>
+    <link>https://mendoncas.github.io/tags/resumo/</link>
+    <description>Recent content in resumo on Blog do Ricardo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 Aug 2022 13:37:58 -0300</lastBuildDate><atom:link href="https://mendoncas.github.io/tags/resumo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anotações: Grafos</title>
+      <link>https://mendoncas.github.io/posts/notas-grafos/</link>
+      <pubDate>Mon, 15 Aug 2022 13:37:58 -0300</pubDate>
+      
+      <guid>https://mendoncas.github.io/posts/notas-grafos/</guid>
+      <description>Conceitos   Um grafo é uma estrutura que representa um conjunto de elementos (vértices) e suas relações de interdependência (arestas).
+  ordem = quantidade de vértices no grafo
+  tamanho = ordem + arestas
+  grau de um vértice -&amp;gt; quantidade de arestas incidentes para um vértice
+  sequência gradual de um grafo -&amp;gt; sequência de graus dos vértices de um grafo
+  isomorfismo -&amp;gt; grafos são isomorfos quando possuem a mesma sequência gradual</description>
+    </item>
+    
+  </channel>
+</rss>
